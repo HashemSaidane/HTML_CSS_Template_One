@@ -1,2 +1,2 @@
-# HTML_CSS_Template_One_2021
-HTML and CSS design Number 1
+# HTML_CSS_Template_Two Inspired By Elzero
+HTML and CSS design Two Inspired By Elzero
